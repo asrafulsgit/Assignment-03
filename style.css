@@ -1,0 +1,11 @@
+*{
+     list-style-type: none;
+     text-decoration: none;
+}
+body{
+     scroll-behavior: smooth;
+     font-family: "Sora", serif;
+}
+.poppins{
+     font-family: "Poppins", serif;
+}
